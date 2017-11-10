@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="mMainText">
+        <item name="android:textSize">@dimen/text_normal</item>
+        <item name="android:textColor">@color/main_text</item>
+        <item name="android:lineSpacingExtra">2dp</item>
+    </style>
+
+    <style name="mHeading">
+        <item name="android:textSize">@dimen/text_heading</item>
+        <item name="android:textColor">@color/main_text</item>
+    </style>
+
+    <style name="mMainText.mUserName">
+        <item name="android:textColor">@color/sub_color_text</item>
+    </style>
+    <style name="mMainText.mErrorText">
+        <item name="android:textColor">@color/red</item>
+    </style>
+
+    <style name="mSubText">
+        <item name="android:textSize">@dimen/text_sub</item>
+        <item name="android:textColor">@color/sub_text</item>
+    </style>
+
+    <style name="mSubTitle">
+        <item name="android:textSize">@dimen/text_sub</item>
+        <item name="android:textColor">@color/subTitle_text</item>
+    </style>
+
+    <style name="mBorder">
+        <item name="android:background">@color/light_gray</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:layout_width">match_parent</item>
+    </style>
+
+    <style name="mWeek">
+        <item name="android:layout_width">40dp</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:layout_marginTop">48dp</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:background">@color/light_gray</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="mAnswerButton">
+        <item name="android:background">@drawable/answer_button_customize</item>
+        <item name="android:gravity">left</item>
+        <item name="android:padding">18dp</item>
+        <item name="android:textColor">@color/main_text</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+</resources>
