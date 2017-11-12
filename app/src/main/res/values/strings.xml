@@ -24,27 +24,6 @@
     <string name="day">day</string>
 
 
-    <!-- Community -->
-    <string name="comments_zero">%1$s comment</string>
-    <plurals name="comments_plural">
-        <item quantity="one">%1$s comment</item>
-        <item quantity="other">%1$s comments</item>
-    </plurals>
-    <string name="comment">Comment</string>
-    <string name="add_comment_ph">Write a comment</string>
-    <string name="edit_picture">Edit profile picture</string>
-    <string name="user_name">User name</string>
-    <string name="save">Save</string>
-    <string name="post">Post</string>
-    <string name="error_user_name">Username should be less than 20 characters</string>
-
-
-    <!-- Other -->
-    <string name="open">open</string>
-    <string name="close">close</string>
-    <string name="sign_in">Sign In</string>
-
-
     <!-- Dialog -->
     <string name="whoops">Whoops!</string>
     <string name="login_text">You must register to do this</string>
