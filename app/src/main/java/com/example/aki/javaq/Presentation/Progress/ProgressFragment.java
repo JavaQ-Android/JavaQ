@@ -22,9 +22,7 @@ import java.util.GregorianCalendar;
 import java.util.List;
 
 
-/**
- * Created by MinaFujisawa on 2017/06/06.
- */
+
 
 public class ProgressFragment extends Fragment {
     private TextView mActiveStreakTextView;

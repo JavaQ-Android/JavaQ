@@ -8,9 +8,7 @@ import android.support.v7.app.AppCompatActivity;
 
 import com.example.aki.javaq.R;
 
-/**
- * Created by park on 2017-06-01.
- */
+
 
 public abstract class DrawermenuSingleFragmentActivity extends AppCompatActivity{
 

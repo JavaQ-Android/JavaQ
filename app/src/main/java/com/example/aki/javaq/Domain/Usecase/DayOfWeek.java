@@ -4,9 +4,6 @@ import java.util.Calendar;
 import java.util.GregorianCalendar;
 import java.util.Locale;
 
-/**
- * Created by MinaFujisawa on 2017/06/14.
- */
 
 public class DayOfWeek {
     private Calendar currentDate;

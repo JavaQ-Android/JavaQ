@@ -1,8 +1,5 @@
 package com.example.aki.javaq.Domain.Helper;
 
-/**
- * Created by AKI on 2017-07-13.
- */
 
 public final class SharedPrefRef {
     public static final String SHEARED_PREF_PROGRESS = "shared_pref_progress";

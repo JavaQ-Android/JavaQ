@@ -1,9 +1,6 @@
 package com.example.aki.javaq.Domain.Usecase;
 
 
-/**
- * Created by MinaFujisawa on 2017/06/11.
- */
 
 public class Badge {
     private int mScore;

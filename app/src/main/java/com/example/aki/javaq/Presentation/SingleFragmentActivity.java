@@ -7,9 +7,7 @@ import android.support.v7.app.AppCompatActivity;
 
 import com.example.aki.javaq.R;
 
-/**
- * Created by AKI on 2017-06-07.
- */
+
 
 public  abstract class SingleFragmentActivity extends AppCompatActivity {
 

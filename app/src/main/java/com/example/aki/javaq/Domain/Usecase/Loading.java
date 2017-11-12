@@ -7,9 +7,7 @@ import android.support.v7.app.AppCompatActivity;
 
 import com.example.aki.javaq.R;
 
-/**
- * Created by MinaFujisawa on 2017/07/18.
- */
+
 
 public class Loading extends AppCompatActivity{
     private android.app.ProgressDialog progress;

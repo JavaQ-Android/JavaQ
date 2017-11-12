@@ -12,17 +12,12 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 
-import com.example.aki.javaq.Presentation.Community.CommunityListFragment;
+
 import com.example.aki.javaq.Presentation.Progress.ProgressFragment;
 import com.example.aki.javaq.Presentation.Quiz.QuizSectionFragment;
-import com.example.aki.javaq.Presentation.Setting.SettingListFragment;
-import com.example.aki.javaq.Presentation.Setting.PrivacyPolicyFragment;
 import com.example.aki.javaq.R;
 
 
-/**
- * Created by MinaFujisawa on 2017/07/12.
- */
 
 public abstract class DrawerMenuActivity extends AppCompatActivity {
     private DrawerLayout mDrawer;
@@ -99,18 +94,7 @@ public abstract class DrawerMenuActivity extends AppCompatActivity {
             case R.id.nav_progress:
                 fragmentClass = ProgressFragment.class;
                 break;
-//            case R.id.nav_community:
-//                fragmentClass = CommunityListFragment.class;
-//                break;
-//            case R.id.nav_setting:
-//                fragmentClass = SettingListFragment.class;
-//                break;
-//            case R.id.nav_pp:
-//                fragmentClass = PrivacyPolicyFragment.class;
-//                break;
-//            case R.id.nav_feedback:
-//                fragmentClass = PrivacyPolicyFragment.class;
-//                break;
+
             default:
                 fragmentClass = QuizSectionFragment.class;
         }

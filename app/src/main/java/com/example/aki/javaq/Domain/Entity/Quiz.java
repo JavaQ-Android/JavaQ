@@ -3,10 +3,6 @@ package com.example.aki.javaq.Domain.Entity;
 
 
 
-/**
- * Created by AKI on 2017-06-06.
- */
-
 public class Quiz {
 
     private int mQuizSectionID;

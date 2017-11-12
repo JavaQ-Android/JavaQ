@@ -6,9 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-/**
- * Created by AKI on 2017-06-07.
- */
+
 
 public class QuizLab {
 

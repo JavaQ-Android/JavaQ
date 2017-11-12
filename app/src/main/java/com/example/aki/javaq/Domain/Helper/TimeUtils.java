@@ -1,13 +1,6 @@
 package com.example.aki.javaq.Domain.Helper;
 
-import android.content.Context;
 
-import java.util.Calendar;
-import java.util.Date;
-
-/**
- * Created by MinaFujisawa on 2017/07/13.
- */
 
 public class TimeUtils {
     private static final int SECOND_MILLIS = 1000;
