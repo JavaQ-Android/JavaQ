@@ -60,7 +60,6 @@ public class ProgressFragment extends Fragment {
 
         if (now - lastCheckedMillis > ONE_DAY_MILLIS * 7) {
             resetSharedPrefForWeeklyProgress();
-            Toast.makeText(getActivity(), "reset", Toast.LENGTH_SHORT).show();
         } else {
             Calendar calendar = Calendar.getInstance();
             calendar.setTimeInMillis(lastCheckedMillis);
@@ -68,7 +67,6 @@ public class ProgressFragment extends Fragment {
 
             if (getNextMidnightMillis() - lastCheckedMillis + ONE_DAY_MILLIS * (7 - lastDOF) < now - lastCheckedMillis) {
                 resetSharedPrefForWeeklyProgress();
-                Toast.makeText(getActivity(), "reset", Toast.LENGTH_SHORT).show();
             }
         }
     }
