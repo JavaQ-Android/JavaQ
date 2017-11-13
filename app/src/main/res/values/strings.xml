@@ -40,7 +40,6 @@
     <string name="back_quiz_message">All progress in this session will be lost</string>
 
 
-    <!-- TODO: Remove or change this placeholder text -->
     <string name="title_activity_community_detail">CommunityDetailActivity</string>
     <string name="title_activity_community_post">CommunityPostActivity</string>
     <string name="failure">failure...</string>
