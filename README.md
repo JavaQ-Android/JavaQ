@@ -3,7 +3,7 @@ This is an Android basic Java quiz App. Now it's on the store!!
 Pls visit below website if you want to download.
 https://play.google.com/store/apps/details?id=com.mina.aki.javaq&hl=ja
 
-<img src="./images/ss01.png" width="160px">  <img src="./images/ss02.png" width="160px">  <img src="./images/ss03.png" width="160px">  <img src="./images/ss04.png" width="160px">
+<img src="./images/ss01.png" width="200px">  <img src="./images/ss02.png" width="200px">  <img src="./images/ss03.png" width="200px">  <img src="./images/ss04.png" width="200px">
 
 ## Contents of Quiz
 - Basic concepts
