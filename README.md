@@ -18,5 +18,6 @@ https://play.google.com/store/apps/details?id=com.mina.aki.javaq&hl=ja
 - Classes
 
 ## What you can do with our App
-You can record your progress of your study.
-You can check your record of active streak and longest streak on progress page.
+- Check your knowledge of Java.
+- Record your progress of your study.
+- Check your record of active streak and longest streak on progress page.
